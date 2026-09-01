@@ -51,3 +51,7 @@ The objective of this project is to understand basic Python concepts such as loo
 ## Conclusion
 
 This project provides a simple way to practice basic Python programming concepts and understand how a menu-driven program works.
+
+## AUTHOR
+
+**VATSAL SOLANKI**

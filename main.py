@@ -1,5 +1,5 @@
 
-       print("WELCOME..")
+       print("Welcome to the pattern genrator and number analyzer..")
 
         while True:
         print("SELECT AN OPTION")

@@ -1,6 +1,7 @@
 
-        print("WELCOME..")
-while True:
+       print("WELCOME..")
+
+        while True:
         print("SELECT AN OPTION")
         print("1. pattern")
         print("2. analyz number")
